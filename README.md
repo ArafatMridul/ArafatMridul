@@ -123,10 +123,10 @@ AI direction         GenAI, agent systems, workflow automation
 -->
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_1">
+  <a href="https://github.com/ArafatMridul/PinQuest">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true" alt="Featured project one" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_2">
+  <a href="https://github.com/ArafatMridul/ISD-project-CSE-3120-">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true" alt="Featured project two" />
   </a>
 </div>
@@ -134,10 +134,10 @@ AI direction         GenAI, agent systems, workflow automation
 <br />
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_3">
+  <a href="https://github.com/ArafatMridul/FM-arch-studio-multipage-website">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_3&theme=tokyonight&hide_border=true" alt="Featured project three" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_4">
+  <a href="https://github.com/ArafatMridul/compiler-project">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_4&theme=tokyonight&hide_border=true" alt="Featured project four" />
   </a>
 </div>
