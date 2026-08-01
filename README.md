@@ -102,25 +102,12 @@ AI direction         GenAI, agent systems, workflow automation
 
 ## `04 // Favorite Works`
 
-<div align="center">
-  <a href="https://github.com/ArafatMridul/PinQuest">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true" alt="Featured project one" />
-  </a>
-  <a href="https://github.com/ArafatMridul/ISD-project-CSE-3120-">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true" alt="Featured project two" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/ArafatMridul/FM-arch-studio-multipage-website">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_3&theme=tokyonight&hide_border=true" alt="Featured project three" />
-  </a>
-  <a href="https://github.com/ArafatMridul/compiler-project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_4&theme=tokyonight&hide_border=true" alt="Featured project four" />
-  </a>
-</div>
+| Icon | Project |
+|:---:|---|
+| 🧭 | [**PinQuest**](https://github.com/ArafatMridul/PinQuest) — location-based project |
+| 🧪 | [**ISD Project**](https://github.com/ArafatMridul/ISD-project-CSE-3120-) — software development project |
+| 🏛️ | [**FM Arch Studio**](https://github.com/ArafatMridul/FM-arch-studio-multipage-website) — multipage website |
+| ⚙️ | [**Compiler Project**](https://github.com/ArafatMridul/compiler-project) — compiler implementation |
 
 > Keep this section selective. Four strong projects tell a clearer story than a wall of every repository.
 
@@ -142,7 +129,7 @@ AI direction         GenAI, agent systems, workflow automation
 
 ---
 
-## `06 // SOCIALS`
+## `06 // Socials`
 
 <div align="center">
   <a href="https://www.facebook.com/arafat.mridul">
