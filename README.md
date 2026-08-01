@@ -1,22 +1,7 @@
-<!--
-  ARAFAT ISLAM MRIDUL — GITHUB PROFILE README
-
-  Before publishing, replace every occurrence of:
-  YOUR_GITHUB_USERNAME
-  YOUR_LINKEDIN_URL
-  YOUR_EMAIL
-  YOUR_SPOTIFY_USER_ID
-  PROJECT_REPO_1 ... PROJECT_REPO_4
-
-  The repository currently includes assets/mob.gif.
--->
-
 <div align="center">
-  <img src="./assets/mob.gif" width="100%" alt="Anime-inspired animated banner for Arafat Islam Mridul" />
+  <img src="./assets/saitama.gif" width="60%" alt="Anime-inspired animated banner for Arafat Islam Mridul" />
 
   <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Arafat+Islam+Mridul;Full-Stack+Web+Developer;Exploring+GenAI+%26+Agentic+AI;Building+useful+automation+with+code" alt="Typing introduction" />
 
   <p>
     <a href="https://github.com/ArafatMridul?tab=followers">
@@ -37,10 +22,10 @@ university: Khulna University of Engineering & Technology — KUET
 year: 4th year
 semester: 7th semester
 focus:
-  - Full-stack web development
-  - Generative AI
-  - Agentic AI
-  - AI automation
+    - Full-stack web development
+    - Generative AI
+    - Agentic AI
+    - AI automation
 current_mission: Build practical products where modern web systems meet intelligent automation
 ```
 
@@ -86,14 +71,14 @@ I enjoy turning ideas into polished web experiences and reliable backend systems
 
 <div align="center">
 
-| Area | Technologies |
-|---|---|
-| **Languages** | C · C++ · Java · Python · JavaScript |
-| **Frontend** | React · Next.js |
-| **Backend** | Node.js · Express |
-| **Databases & Data** | MongoDB · PostgreSQL · Neon DB · Convex |
-| **Application Infrastructure** | Drizzle ORM · Better Auth |
-| **Emerging Focus** | GenAI · Agentic AI · AI Automation |
+| Area                           | Technologies                            |
+| ------------------------------ | --------------------------------------- |
+| **Languages**                  | C · C++ · Java · Python · JavaScript    |
+| **Frontend**                   | React · Next.js                         |
+| **Backend**                    | Node.js · Express                       |
+| **Databases & Data**           | MongoDB · PostgreSQL · Neon DB · Convex |
+| **Application Infrastructure** | Drizzle ORM · Better Auth               |
+| **Emerging Focus**             | GenAI · Agentic AI · AI Automation      |
 
 </div>
 
@@ -160,5 +145,6 @@ AI direction         GenAI, agent systems, workflow automation
 <div align="center">
   ### `The next version is already compiling.`
 
-  <sub>Thanks for visiting my developer arc.</sub>
+<sub>Thanks for visiting my developer arc.</sub>
+
 </div>
