@@ -19,10 +19,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Arafat+Islam+Mridul;Full-Stack+Web+Developer;Exploring+GenAI+%26+Agentic+AI;Building+useful+automation+with+code" alt="Typing introduction" />
 
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+    <a href="https://github.com/ArafatMridul?tab=followers">
+      <img src="https://img.shields.io/github/followers/ArafatMridul?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VISITS" alt="Profile visits" />
+    <img src="https://komarev.com/ghpvc/?username=ArafatMridul&style=for-the-badge&label=PROFILE+VISITS" alt="Profile visits" />
   </p>
 </div>
 
@@ -117,11 +117,6 @@ AI direction         GenAI, agent systems, workflow automation
 
 ## `04 // FEATURED MISSIONS`
 
-<!--
-  Replace PROJECT_REPO_1 ... PROJECT_REPO_4 with the exact repository names.
-  Example: repo=my-travel-app
--->
-
 <div align="center">
   <a href="https://github.com/ArafatMridul/PinQuest">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true" alt="Featured project one" />
@@ -150,63 +145,14 @@ AI direction         GenAI, agent systems, workflow automation
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man animation generated from Arafat's GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafatMridul/ArafatMridul/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafatMridul/ArafatMridul/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man animation generated from Arafat's GitHub contribution graph" src="https://raw.githubusercontent.com/ArafatMridul/ArafatMridul/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
 <div align="center">
   <sub>The arcade is regenerated automatically by GitHub Actions from the contribution graph.</sub>
-</div>
-
----
-
-## `06 // PLAYER STATISTICS`
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arafat's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Arafat's most used languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Arafat's GitHub contribution streak" />
-</div>
-
----
-
-## `07 // NOW PLAYING`
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true" alt="Recently played Spotify tracks" />
-  </a>
-</div>
-
-<details>
-<summary><b>Spotify setup note</b></summary>
-<br />
-
-Replace `YOUR_SPOTIFY_USER_ID` with your Spotify user ID. If you do not use Spotify publicly, remove this whole section rather than leaving a broken widget.
-
-</details>
-
----
-
-## `08 // OPEN CHANNELS`
-
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
 </div>
 
 ---
