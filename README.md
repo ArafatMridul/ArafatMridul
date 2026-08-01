@@ -13,7 +13,7 @@
 
 ---
 
-## `01 // CHARACTER PROFILE`
+## `01 // About Me`
 
 ```yaml
 name: Arafat Islam Mridul
@@ -33,7 +33,7 @@ I enjoy turning ideas into polished web experiences and reliable backend systems
 
 ---
 
-## `02 // CURRENT ARC`
+## `02 // Current Focus`
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ I enjoy turning ideas into polished web experiences and reliable backend systems
 
 ---
 
-## `03 // TECH LOADOUT`
+## `03 // Tech Loadout`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,express,mongodb,postgres,react,nextjs&perline=11" alt="Primary technologies" />
@@ -100,7 +100,7 @@ AI direction         GenAI, agent systems, workflow automation
 
 ---
 
-## `04 // FEATURED MISSIONS`
+## `04 // Favorite Works`
 
 <div align="center">
   <a href="https://github.com/ArafatMridul/PinQuest">
@@ -126,7 +126,7 @@ AI direction         GenAI, agent systems, workflow automation
 
 ---
 
-## `05 // ACTIVITY ARCADE`
+## `05 // Activity Arcade`
 
 <div align="center">
   <picture>
@@ -142,9 +142,27 @@ AI direction         GenAI, agent systems, workflow automation
 
 ---
 
+## `06 // SOCIALS`
+
 <div align="center">
-  ### `The next version is already compiling.`
-
-<sub>Thanks for visiting my developer arc.</sub>
-
+  <a href="https://www.facebook.com/arafat.mridul">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/_a.mridul/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/arafat-mridul-460350243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/760191010394472458">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
+
+---
+
+<h3 align="center">The next version is already compiling.</h3>
+
+<p align="center">
+  <sub>Thanks for visiting my developer arc.</sub>
+</p>
